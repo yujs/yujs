@@ -1,3 +1,1 @@
-### Hi guys 👋
-
-<img src="sun.jpg" />
+<img width="100%" src="sun.jpg" />
